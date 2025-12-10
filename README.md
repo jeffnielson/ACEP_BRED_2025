@@ -1,5 +1,5 @@
 # ACEP_BRED_2025
-The American College of Emergency Physicians (ACEP) produced the Burdent Reduction for Emergency Departments (BRED) standard to help identify and measure workforce burden.  The aprroved standard definitions are documented here.  There are 12 top level standards. They are BRED1-BRED13 (omitting #7) with approcimately 70 secondary measures.
+The American College of Emergency Physicians (ACEP) produced the Burdent Reduction for Emergency Departments (BRED) standard to help identify and measure workforce burden.  The aprroved standard definitions are documented here.  There are 12 top level standards. They are BRED1-BRED13 (omitting #7) with approximately 70 secondary measures.
 To view more detail, see [the expanded table](https://github.com/jeffnielson/ACEP_BRED_2025/blob/jeffnielson-patch-1/EXPANDEDTABLE.md) which contains supportive tesxt and aspirational comments.
 
 ## Table 1: Top Level Measures (BRED1-BRED13)
